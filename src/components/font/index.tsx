@@ -8,7 +8,7 @@ function ImageCom () {
     <Image
       isBlurred
       width={200}
-      src="http://www.ziyexing.com/files-7/literary_file/fil_89.jpg"
+      src="https://nextui-docs-v2.vercel.app/images/album-cover.png"
       alt="NextUI Album Cover"
       className="mb-5"
     />
