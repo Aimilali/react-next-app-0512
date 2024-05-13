@@ -1,7 +1,7 @@
 'use client'
 
 import { AnimatePresence, motion } from "framer-motion";
-import {Image} from "@nextui-org/react";
+import { Image } from "@nextui-org/react";
 
 function ImageCom () {
   return (

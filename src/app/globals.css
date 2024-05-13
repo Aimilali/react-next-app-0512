@@ -25,18 +25,8 @@ html, body {
     font-family: 'KeaiFont';
     font-style: normal;
     font-weight: 400;
-    font-display: swap;
-    src: url(../../public/fonts/KeaiFont.otf) format('opentype');
-  }
-}
-
-@layer base {
-  @font-face {
-    font-family: 'ZhiMangXingFont';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../../public/fonts/ZhiMangXing-Regular.ttf) format('truetype');
+    font-display: block;
+    src: url(../../public/fonts/KeaiFont.woff2);
   }
 }
 
@@ -45,8 +35,8 @@ html, body {
     font-family: 'PangMenFont';
     font-style: normal;
     font-weight: 400;
-    font-display: swap;
-    src: url(../../public/fonts/PangMenFont.ttf) format('truetype');
+    font-display: block;
+    src: url(../../public/fonts/PangMenFont.woff2);
   }
 }
 
